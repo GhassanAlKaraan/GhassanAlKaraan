@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @Ghassan AlKaraan
+- 👋 Hi, I’m Ghassan
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Computer Science
+- 🌱 I'm working in IT and NOC Support
 - 💞️ I’m looking to collaborate on a website
 - 📫 ghassan.alkaraan@st.ul.edu.lb
 
