@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GhassanKaraan
+- 👋 Hi, I’m @Ghassan AlKaraan
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Computer Science
 - 💞️ I’m looking to collaborate on a website
