@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ghassan</h1>
-<h3 align="center">A software developer from Lebanon</h3>
+<h1 align="left">Hi 👋, I'm Ghassan</h1>
+<h3 align="left">A software developer from Lebanon</h3>
 
 - 📫 How to reach me **ghass.karaan@gmail.com**
 
@@ -30,6 +30,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ghassanalkaraan&show_icons=true&locale=en&layout=compact" alt="ghassanalkaraan" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ghassanalkaraan&show_icons=true&locale=en&layout=compact" alt="ghassanalkaraan" /></p>
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ghassanalkaraan&hide=issues,contribs&count_private=true&langs_count=4&show_icons=true&locale=en" alt="ghassanalkaraan" /></p>
+<br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ghassanalkaraan&theme=dark" alt="ghassanalkaraan" /></p>
