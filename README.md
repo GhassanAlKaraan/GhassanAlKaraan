@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Ghassan</h1>
+<h1 align="center">Hi 👋, I'm Ghassan</h1>
 <h3 align="left">A software developer from Lebanon</h3>
 
 - 📫 How to reach me **ghass.karaan@gmail.com**
