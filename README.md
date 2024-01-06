@@ -28,8 +28,9 @@
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ghassanalkaraan&show_icons=true&locale=en&layout=compact" alt="ghassanalkaraan" /></p>
+<h3 align="left">My Github stats:</h3>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ghassanalkaraan&show_icons=true&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=171717&hide_border=true&locale=en&layout=compact" alt="ghassanalkaraan" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ghassanalkaraan&hide=issues,contribs&count_private=true&langs_count=4&show_icons=true&locale=en" alt="ghassanalkaraan" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ghassanalkaraan&hide=issues,contribs&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=171717&hide_border=true&count_private=true&langs_count=4&show_icons=true&locale=en" alt="ghassanalkaraan" /></p>
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ghassanalkaraan&theme=dark" alt="ghassanalkaraan" /></p>
