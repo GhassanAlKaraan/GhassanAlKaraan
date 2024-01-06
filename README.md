@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ghassan</h1>
 <h3 align="center">A software developer from Lebanon</h3>
 
+- 📫 How to reach me **ghass.karaan@gmail.com**
+
 - 🔭 I’m currently working on [flutter app template](http://github.com/GhassanAlKaraan/flutterfire-template)
 
 - 🌱 I’m currently learning **Frontend development**
-
-- 📫 How to reach me **ghass.karaan@gmail.com**
 
 - ⚡ Fun fact **I am a drummer and a chess player**
 
