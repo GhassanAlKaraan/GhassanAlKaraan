@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [flutter app template](http://github.com/GhassanAlKaraan/flutterfire-template)
 
-- 🌱 I’m currently learning **Frontend development**
+- 🌱 I’m currently learning **NodeJs/ExpressJs**
 
 - ⚡ Fun fact **I am a drummer and a chess player**
 
