@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [SpendTracker flutter app](http://github.com/GhassanAlKaraan/spend-tracker)
 
-- 🌱 I’m currently learning **NodeJs, ExpressJs and MongoDB**
+- 🌱 I’m currently learning **MERN Stack**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
