@@ -3,7 +3,7 @@
 
 - 📫 You can add me on [Linkedin](https://www.linkedin.com/in/ghassan-alkaraan)
 
-- 🔭 I’m currently working on [flutter app template](http://github.com/GhassanAlKaraan/flutterfire-template)
+- 🔭 I’m currently working on [SpendTracker flutter app](http://github.com/GhassanAlKaraan/spend-tracker)
 
 - 🌱 I’m currently learning **NodeJs, ExpressJs and MongoDB**
 
