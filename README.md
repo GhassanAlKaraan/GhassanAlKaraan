@@ -3,9 +3,9 @@
 
 - 📫 You can add me on [Linkedin](https://www.linkedin.com/in/ghassan-alkaraan)
 
-- 🔭 I’m currently working on [SpendTracker flutter app](http://github.com/GhassanAlKaraan/spend-tracker)
+- 🔭 I’m currently working on [my portfolio](http://github.com/GhassanAlKaraan/portfolio)
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **Node Express**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
