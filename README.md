@@ -1,9 +1,9 @@
 <h1 align="center">Hey 👋, I'm Ghassan</h1>
 <h3 align="center">A software developer from Lebanon</h3>
 
-- 📫 You can add me on [Linkedin](https://www.linkedin.com/in/ghassan-alkaraan)
+- 🔗 Visit my portfolio here [Ghass.dev](https://ghass.dev)
 
-- 🔭 I’m currently working on [my portfolio](http://github.com/GhassanAlKaraan/portfolio)
+- 📫 You can add me on [Linkedin](https://www.linkedin.com/in/ghassan-alkaraan)
 
 - 🌱 I’m currently learning **Node Express**
 
