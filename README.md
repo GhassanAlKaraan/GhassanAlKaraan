@@ -5,7 +5,7 @@
 
 - 📫 You can add me on [Linkedin](https://www.linkedin.com/in/ghassan-alkaraan)
 
-- 🌱 I’m currently learning **Node Express**
+- 🌱 I’m currently developing with **Flutter**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
