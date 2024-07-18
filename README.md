@@ -1,23 +1,11 @@
-<h1 align="center">Hey 👋, I'm Ghassan</h1>
-<h3 align="center">A software developer from Lebanon</h3>
+<h2 align="left">Hey, I'm Ghassan</h1>
+<h3 align="left">A software developer from Lebanon</h3>
 
 - 🔗 Visit my portfolio here [Ghass.dev](https://ghass.dev)
 
 - 📫 You can add me on [Linkedin](https://www.linkedin.com/in/ghassan-alkaraan)
 
-- 🌱 I’m currently working with **Flutter, Node.js and Python**
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />&nbsp;
-<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" />&nbsp;
-<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />&nbsp;
-<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />&nbsp;
-<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />&nbsp;
-<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" />&nbsp;
-<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />&nbsp;
-<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" />
-</p>
+- 🌱 I’m currently working with **Flutter and Node.js**
 
 <h3 align="left">My Github stats:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?langs_count=2&username=ghassanalkaraan&show_icons=true&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=171717&hide_border=true&locale=en&layout=compact" alt="ghassanalkaraan" /></p>
