@@ -1,5 +1,4 @@
-<h2 align="left">Hey, I'm Ghassan</h1>
-<h3 align="left">A software developer from Lebanon</h3>
+<h2 align="left">Hello, I'm Ghassan</h1>
 
 - 🔗 Visit my portfolio here [Ghass.dev](https://ghass.dev)
 
