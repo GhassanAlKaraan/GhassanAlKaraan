@@ -6,7 +6,7 @@
 
 Skills:<br>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,vue,js,html,css,nodejs,postgres,mysql,mongodb,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,vue,js,html,css,nodejs,express,postgres,mysql,mongodb,vscode,postman" />
 </a>
 
 <h3 align="left">My Github stats:</h3>
