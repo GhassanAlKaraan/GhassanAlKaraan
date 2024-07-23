@@ -2,6 +2,7 @@
 <!--
 - 🔗 Visit my portfolio here [Ghassan.tech](https://ghassan.tech)
 -->
+
 - 📫 You can add me on [Linkedin](https://www.linkedin.com/in/ghassan-alkaraan)
 
 - 🌱 I’m currently working with **Flutter and Node.js**
