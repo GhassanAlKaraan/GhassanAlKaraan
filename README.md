@@ -3,7 +3,6 @@
 - Add me on [Linkedin](https://www.linkedin.com/in/ghassan-alkaraan)
 - Contact me on [My Email](mailto:ghass.karaan@gmail.com)
 
-<br><br>
 Skills:<br>
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=flutter,dart,vue,js,html,css,nodejs,postgres,mysql,mongodb,vscode,postman" />
