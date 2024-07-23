@@ -1,11 +1,12 @@
 <h2 align="left">Hello, I'm Ghassan</h1>
 
 <a href="https://www.linkedin.com/in/ghassan-alkaraan">
-  Add me on Linkedin: <img src="https://skillicons.dev/icons?i=linkedin" />
+  Add me on Linkedin <br>
+  <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
 <a href="https://skillicons.dev">
-  <img src="[https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim](https://skillicons.dev/icons?i=flutter,dart,vue,js,html,css,nodejs,mysql,mongodb,vscode,postman)" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,vue,js,html,css,nodejs,mysql,mongodb,vscode,postman" />
 </a>
 
 <h3 align="left">My Github stats:</h3>
