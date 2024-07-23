@@ -1,6 +1,7 @@
 <h2 align="left">Hi, I'm Ghassan, a full-time app coding enthusiast.</h1>
 
 - Add me on [Linkedin](https://www.linkedin.com/in/ghassan-alkaraan)
+- Check out my [Portfolio](https://ghassan.tech)
 - Contact me on [My Email](mailto:ghass.karaan@gmail.com)
 
 Skills:<br>
