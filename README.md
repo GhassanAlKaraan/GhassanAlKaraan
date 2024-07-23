@@ -1,10 +1,11 @@
 <h2 align="left">Hello, I'm Ghassan</h1>
 
+Add me on Linkedin <br>
 <a href="https://www.linkedin.com/in/ghassan-alkaraan">
-  Add me on Linkedin <br>
   <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
-
+<br><br>
+Skills:<br>
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=flutter,dart,vue,js,html,css,nodejs,mysql,mongodb,vscode,postman" />
 </a>
