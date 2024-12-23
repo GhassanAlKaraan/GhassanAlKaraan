@@ -1,4 +1,4 @@
-<h2 align="left">Hi, I'm Ghassan, a full-time app coding enthusiast.</h1>
+<h2 align="left">Hi, I'm Ghassan, a software dev enthusiast.</h1>
 
 - Add me on [Linkedin](https://www.linkedin.com/in/ghassan-alkaraan)
 - Check out my [Portfolio](https://ghass.dev)
