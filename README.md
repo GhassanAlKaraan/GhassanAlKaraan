@@ -1,4 +1,4 @@
-<h2 align="left">Hi, I'm Ghassan, a software dev enthusiast.</h1>
+<h2 align="left">Hi, I'm Ghassan, an app dev enthusiast.</h1>
 
 - Add me on [Linkedin](https://www.linkedin.com/in/ghassan-alkaraan)
 - Check out my [Portfolio](https://ghass.dev)
@@ -6,7 +6,7 @@
 
 Skills:<br>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,react,ts,express,postgres,mysql,mongodb,firebase,docker,java" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,react,ts,express,postgres,mysql,mongodb,firebase,docker" />
 </a>
 
 <!--<h3 align="left">My Github stats:</h3>
