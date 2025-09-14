@@ -6,5 +6,5 @@
 
 Skills:<br>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,react,ts,node,postgres,prisma,firebase,docker" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,nest,ts,postgres,prisma,firebase,docker" />
 </a>
